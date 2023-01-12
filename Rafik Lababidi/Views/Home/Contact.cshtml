@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contact</title>
+        <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/lib/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="../css/Style.css">
+</head>
+    <body class="contact with-title">
+        <div class="content">
+            <h1>Contact Us</h1>
+        <div style="display: block; margin-bottom: 30px;">
+            <a href="/Home/SearchAsGuest" id="btnBack">Back To Search</a>
+        </div>
+
+            <h2>Webchat Opening Hours</h2>
+            <ul>
+                <li>Monday to Friday, 8am to 7pm</li>
+                <li>Saturdays, 8am to to 2px</li>
+                <li>Public holidays, Closed</li>
+            </ul>
+            <p>
+                Outside of opening hours there is an automated services which can help with
+                <br>
+                generals information only. If you are happy to continue,
+                <br>
+                please click 'Submit a Ticket'.
+            </p>
+            <p>
+                You can keep a transcript of your chat by clicking the 'Save Chat' button in the top
+                <br>
+                left of the chat screen.
+            </p>
+            <h2>Things you can not do via webchat</h2>
+            <ul>
+                <li>Make a payment</li>
+                <li>Set up or amend a direct debit</li>
+            </ul>
+            <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                Submit a ticket
+            </button>
+            <ul>
+                <li>Monday to Friday, 8am to 7pm</li>
+                <li>Saturdays, 8am to to 2px</li>
+                <li>Public holidays, Closed</li>
+            </ul>
+            <p>
+                You can also find more information at
+                <a href="https://www.eu.com" style="font-size: .8em; text-transform: lowercase; text-decoration: underline;"><i>https://www.eu.com</i></a>
+            </p>
+        </div>
+
+
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Send Message</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" style="margin: 0"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label>Full Name :</label>
+                            <input type="text" class="form-control" id="txtFullName" />
+                        </div>
+
+                        <div class="form-group mt-4">
+                            <label>Message :</label>
+                            <textarea class="form-control" id="txtMessage" rows="5"></textarea>
+                        </div>
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary mx-2" data-bs-dismiss="modal" id="btnClose">Close</button>
+                        <button type="button" class="btn btn-warning" id="btnSend">Send</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.esm.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script>
+        $('#btnSend').click(function () {
+            var fullName = $('#txtFullName').val();
+            var message = $('#txtMessage').val();
+
+            $.ajax({
+                url: '/Home/SendMessage',
+                method: 'POST',
+                data: {fullName: fullName, message: message},
+                success: function (result) {
+                    if (result == "OK") {
+                        alert("Message Was Sent Successfully!");
+                        $('#btnClose').click();
+                    } else {
+                        alert("An Error Happen When We Try To Send The Message, Please Try Again Later !");
+                    }
+                }
+            });
+        });
+    </script>
+</html>

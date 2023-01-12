@@ -1,0 +1,160 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Sell</title>
+        <link rel="stylesheet" href="../css/dropzone.min.css">
+        <link rel="stylesheet" href="../css/Style.css">
+        <style>
+            #imageFront, #imageBack, #submitBtn {
+                display: none;
+            }
+
+            .img {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                top: 0;
+                left: 0;
+                display: none;
+            }
+
+            select {
+                padding: 0.8rem 1rem;
+                width: 100%;
+            }
+
+            #ok {
+                display: block;
+                color: green;
+                font-size: 20px;
+                text-align: center;
+                margin-bottom: 20px;
+            }
+
+            #btnSub {
+                margin-top: 30px;
+            }
+        </style>
+    </head>
+    <body class="sell with-title">
+        <div class="content">
+            <h1>Add Car As Admin</h1>
+            <div style="display: block; margin-bottom: 30px;">
+                <a href="/Home/SearchAsGuest" id="btnBack">Back To Search</a>
+            </div>
+            @if(ViewBag.Ok != null)
+            {
+                <p id="ok">@ViewBag.Ok</p>
+            }
+            <div class="flex main">
+                <form action="/Home/SellAsAdmin" method="post" enctype="multipart/form-data">
+                    <div class="input-box">
+                        <label for="name">Full Name *</label>
+                        <input type="text" id="name" name="fullName" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="email">Email Address *</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="contact">Contact Number *</label>
+                        <input type="tel" id="contact" name="contactNumber" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="info">Vehicle Make, Model & Year *</label>
+                        <input type="text" id="info" name="vehicleDetails" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="vehicleEngine">Vehicle Engine</label>
+                        <input type="text" id="vehicleEngine" name="vehicleEngine" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="vehicleKm">Vehicle KM</label>
+                        <input type="text" id="vehicleKm" name="vehicleKm" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="price">What price would you like to achieve?</label>
+                        <input type="text" id="price" name="price" />
+                    </div>
+
+                    <div class="input-box">
+                        <label for="price">Chose Type</label>
+                        <select name="type">
+                            <option value="suv">suv</option>
+                            <option value="truck">truck</option>
+                            <option value="sedans">sedans</option>
+                            <option value="crossover">crossover</option>
+                            <option value="coupes">coupes</option>
+                        </select>
+                    </div>
+
+                    <input type="file" name="imageFront" id="imageFront" />
+                    <input type="file" name="imageBack" id="imageBack" />
+
+                    <input type="submit" value="submit" id="submitBtn" />
+                </form>
+                <div class="upload">
+                    <div class="dropzone w-50 m-auto shadow mb-3" id="myDropzoneFront" style="border-style: dashed; position: relative">
+                        <div class="dz-message" data-dz-message>
+                            <p>Select a file or drop it here</p>
+                            <h3 style="margin-top: 1rem; font-size: 2em">Front</h3>
+                        </div>
+                        <img src="" class="img" id="imgFr" />
+                    </div>
+                    <div class="dropzone w-50 m-auto shadow mb-3" id="myDropzoneBack" style="border-style: dashed; margin-top: 2rem; position: relative">
+                        <div class="dz-message" data-dz-message>
+                            <p>Select a file or drop it here</p>
+                            <h3 style="margin-top: 1rem; font-size: 2em">Rear</h3>
+                        </div>
+                        <img src="" class="img" id="imgBk" />
+                    </div>
+                </div>
+            </div>
+            <button id="btnSub">Submit</button>
+        </div>
+        <script src="../lib/jquery/dist/jquery.js"></script>
+        
+        <script>
+            $('#myDropzoneFront').click(function (evt) {
+                evt.preventDefault();
+                $('#imageFront').click();
+            });
+
+            $('#imageFront').change(function () {
+                var file = document.getElementById('imageFront');
+
+                let reader = new FileReader();
+                reader.readAsDataURL(file.files[0]);
+                reader.onload = () => {
+                    $('#imgFr').attr('src', reader.result);
+                }
+
+                $('#imgFr').css('display', 'block');
+            });
+
+            $('#imageBack').change(function () {
+                var file = document.getElementById('imageBack');
+
+                let reader = new FileReader();
+                reader.readAsDataURL(file.files[0]);
+                reader.onload = () => {
+                    $('#imgBk').attr('src', reader.result);
+                }
+
+                $('#imgBk').css('display', 'block');
+            });
+
+            $('#myDropzoneBack').click(function (evt) {
+                evt.preventDefault();
+                $('#imageBack').click();
+            });
+
+            $('#btnSub').click(function () {
+                $('#submitBtn').click();
+            });
+        </script>
+    </body>
+</html>

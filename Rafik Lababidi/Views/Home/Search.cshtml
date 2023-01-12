@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Search</title>
+        <link rel="stylesheet" href="../css/Style.css">
+    </head>
+    <body class="search">
+        <nav>
+            <ul class="flex">
+                <li>
+                    <a href="buy">buy</a>
+                </li>
+                <li>
+                    <a href="sell">sell</a>
+                </li>
+                <li>
+                    <a href="contact">contact us</a>
+                </li>
+            </ul>
+        </nav>
+        <h1>Find cars any budget will love</h1>
+        <form action="/Home/Search" method="post">
+            <p>What kinds of cars do you want?</p>
+            <div class="flex">
+                <div class="radio-box">
+                    <input type="radio" name="car" value="suv" id="suv" required>
+                    <label for="suv" style="background-position: 80% -13px;"></label>
+                </div>
+                <div class="radio-box">
+                    <input type="radio" name="car" value="truck" id="truck" required>
+                    <label for="truck" style="background-position: 20% 96%;"></label>
+                </div>
+                <div class="radio-box">
+                    <input type="radio" name="car" value="sedans" id="sedans" required>
+                    <label for="sedans" style="background-position: 20% -13px;"></label>
+                </div>
+                <div class="radio-box">
+                    <input type="radio" name="car" value="crossover" id="crossover" required>
+                    <label for="crossover" style="background-position: 20% 27%;"></label>
+                </div>
+                <div class="radio-box">
+                    <input type="radio" name="car" value="coupes" id="coupes" required>
+                    <label for="coupes" style="background-position: 20% 49.7%;"></label>
+                </div>
+            </div>
+            <p>What do your finances look like?</p>
+            <div class="select-box">
+                <label for="monthly">monthly PAYMENT</label>
+                <select name="monthly" id="monthly" required>
+                    <option selected></option>
+                    <option value="100">100</option>
+                    <option value="200">200</option>
+                    <option value="300">300</option>
+                    <option value="400">400</option>
+                    <option value="500">500</option>
+                </select>
+            </div>
+            <div class="select-box">
+                <label for="down">down PAYMENT</label>
+                <select name="down" id="down" required>
+                    <option selected></option>
+                    <option value="100">100</option>
+                    <option value="200">200</option>
+                    <option value="300">300</option>
+                    <option value="400">400</option>
+                    <option value="500">500</option>
+                </select>
+            </div>
+            <button>search</button>
+        </form>
+    </body>
+</html>

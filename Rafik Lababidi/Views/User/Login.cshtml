@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Login</title>
+        <link rel="stylesheet" href="../css/Style.css">
+    </head>
+    <body class="login">
+        <div class="flex">
+            <div class="bg"></div>
+            <div class="content flex col">
+                <div class="logo">
+                    <div style="width: 50px; margin: auto;">
+                        <img src="../images/logo.png" alt="Logo">
+                    </div>
+                    <h1>eu cars</h1>
+                    <span>internation cars</span>
+                </div>
+                @if (ViewBag.Error != null)
+                {
+                    <p id="Error">@ViewBag.Error</p>
+                }
+                <form action="/user/Login" method="post">
+                    <div class="input-box">
+                        <label for="username">User Name</label>
+                        <input type="text" id="username" name="username" required />
+                    </div>
+                    <div class="input-box">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" name="password" required />
+                    </div>
+                    <button type="submit">login</button>
+                </form>
+                <div class="others">
+                    <a href="/Home/SearchAsGuest">login as a guest</a>
+                    <a href="/user/register" style="display: inline-block; margin-left: 1rem; text-decoration: underline"><i>register</i></a>
+                    <a href="/user/ForgetPassword" style="display: block; margin-top: 1rem; font-size: .8em">forget password?</a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

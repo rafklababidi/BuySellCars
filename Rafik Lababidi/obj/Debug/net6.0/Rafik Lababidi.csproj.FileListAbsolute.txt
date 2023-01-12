@@ -1,0 +1,180 @@
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\appsettings.json
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.staticwebassets.runtime.json
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.exe
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.deps.json
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.runtimeconfig.json
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.dll
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\ref\Rafik Lababidi.dll
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.pdb
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.AssemblyInfoInputs.cache
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.AssemblyInfo.cs
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.RazorAssemblyInfo.cache
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.RazorAssemblyInfo.cs
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\scopedcss\bundle\Rafik Lababidi.styles.css
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.dll
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\ref\Rafik Lababidi.dll
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.pdb
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.genruntimeconfig.cache
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.CopyComplete
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.AssemblyReference.cache
+C:\Users\Shadow\Desktop\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\appsettings.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.staticwebassets.runtime.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.exe
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.deps.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.runtimeconfig.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.pdb
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.AssemblyReference.cache
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.AssemblyInfoInputs.cache
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.AssemblyInfo.cs
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.RazorAssemblyInfo.cache
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.RazorAssemblyInfo.cs
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.Rafik Lababidi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.build.Rafik Lababidi.props
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rafik Lababidi.props
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rafik Lababidi.props
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\scopedcss\bundle\Rafik Lababidi.styles.css
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.CopyComplete
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\refint\Rafik Lababidi.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.pdb
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.genruntimeconfig.cache
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\ref\Rafik Lababidi.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\appsettings.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.staticwebassets.runtime.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.exe
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.deps.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.runtimeconfig.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.pdb
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.AssemblyReference.cache
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.AssemblyInfoInputs.cache
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.AssemblyInfo.cs
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.RazorAssemblyInfo.cache
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.RazorAssemblyInfo.cs
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.Rafik Lababidi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.build.Rafik Lababidi.props
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rafik Lababidi.props
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rafik Lababidi.props
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\scopedcss\bundle\Rafik Lababidi.styles.css
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.CopyComplete
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\refint\Rafik Lababidi.dll
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.pdb
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.genruntimeconfig.cache
+C:\Users\Shadow\Downloads\Compressed\Rafik Lababidi\Rafik Lababidi\obj\Debug\net6.0\ref\Rafik Lababidi.dll
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\appsettings.json
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.staticwebassets.runtime.json
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.exe
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.deps.json
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.runtimeconfig.json
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.dll
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.pdb
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.AssemblyReference.cache
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.AssemblyInfoInputs.cache
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.AssemblyInfo.cs
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.CoreCompileInputs.cache
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.RazorAssemblyInfo.cache
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.RazorAssemblyInfo.cs
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.Rafik Lababidi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.build.Rafik Lababidi.props
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rafik Lababidi.props
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rafik Lababidi.props
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\scopedcss\bundle\Rafik Lababidi.styles.css
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.CopyComplete
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.dll
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\refint\Rafik Lababidi.dll
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.pdb
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.genruntimeconfig.cache
+C:\Users\rafik\Desktop\new aso\Rafik Lababidi\obj\Debug\net6.0\ref\Rafik Lababidi.dll
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\appsettings.json
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.staticwebassets.runtime.json
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.exe
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.deps.json
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.runtimeconfig.json
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.dll
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\Rafik Lababidi.pdb
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.AssemblyReference.cache
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.AssemblyInfoInputs.cache
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.AssemblyInfo.cs
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.CoreCompileInputs.cache
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.RazorAssemblyInfo.cache
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.RazorAssemblyInfo.cs
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.Rafik Lababidi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.build.Rafik Lababidi.props
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rafik Lababidi.props
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rafik Lababidi.props
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\scopedcss\bundle\Rafik Lababidi.styles.css
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.csproj.CopyComplete
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.dll
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\refint\Rafik Lababidi.dll
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.pdb
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\Rafik Lababidi.genruntimeconfig.cache
+C:\Users\rafik\Desktop\new asp\Rafik Lababidi\obj\Debug\net6.0\ref\Rafik Lababidi.dll
